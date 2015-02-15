@@ -38,8 +38,7 @@
 }
 
 /**
- *  This test will exercise everything except didReceiveMemoryWarning and resetButtonTapped:.
- *  Those methods are left untested to show what a report looks like without full coverage.
+ *  This test will exercise everything except resetButtonTapped:.
  */
 - (void)testSubmitButtonTapped
 {
